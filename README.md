@@ -38,4 +38,3 @@ Pronto! A aplicação estará funcionando.
 
 ```
 Desenvolvido por Evelyn Bezerra Ramos.
-```
