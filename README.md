@@ -35,4 +35,7 @@ Pronto! A aplicação estará funcionando.
 ├── index.html          # Estrutura da página web
 ├── index.js            # Lógica da aplicação (manipulação do DOM, eventos)
 └── styles.css          # Estilização da página
+
+```
+Desenvolvido por Evelyn Bezerra Ramos.
 ```
